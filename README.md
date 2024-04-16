@@ -25,7 +25,10 @@ The feature selection techniques used are:
 
 # CODING AND OUTPUT:
 Name:Sanjit.P
+
 Register No:212223230190
+
+
 ![322402720-66bf8346-99be-479b-86cf-d8f197bb6dc1](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/ad5668fd-4517-4dc5-9689-1af82afb860a)
 ![322402804-c662fe28-32c8-4178-8cc6-ed8997f036b0](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/120b1c4f-b1c8-4162-a19d-5aea07e525cf)
 ![322402860-69a21166-1be8-4779-8e21-b653d7c4f52e](https://github.com/KesavDeepak/EXNO-4-DS/assets/139336019/f790fb14-46fd-444f-9d59-acfb829f6778)
